@@ -41,6 +41,6 @@
 <br />
 <br />
 
-[website]: https://milan-odedra.github.io/
+[website]: 
 [twitter]: ""
 [linkedin]: https://www.linkedin.com/in/milanodedra1/
