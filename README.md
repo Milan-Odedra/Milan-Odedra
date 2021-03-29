@@ -9,8 +9,7 @@
 - 🥅 2021 Goals: Contribute to Open Source projects and create new exciting Personal Projects
 - 🤔 I’m looking for help to be a better programmer and learner
 - 💬 Ask me about Anything
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love to game and play sports
+- ⚡ Fun fact: I love to medidate and play games
 <!-- 🎮 ..... -->
 
 
